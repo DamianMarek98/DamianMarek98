@@ -1,6 +1,6 @@
 ### Hello I'm Damian 👋
 
-I’m currently working in Inero Software as Java Developer. I specialize in backend, mostly using Spring Boot framework.
+I’m currently working in [SPEEDNET](https://speednet.pl/) as Java Developer. I specialize in backend, mostly using Spring Boot framework.
 
 - 🌱 I’m currently learning Spring Cloud
 - 🔭 and exploring DDD approach
