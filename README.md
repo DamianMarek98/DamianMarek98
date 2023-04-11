@@ -5,7 +5,7 @@ I’m currently working in Inero Software as Java Developer. I specialize in bac
 - 🌱 I’m currently learning Spring Cloud
 - 🔭 and exploring DDD approach
 
-### You can find me or contact me here:
+### You can find or contact me here:
 - 🔗 [Linkedin](https://www.linkedin.com/in/damian-marek-382691195/)
 
 ### My tech stack:
