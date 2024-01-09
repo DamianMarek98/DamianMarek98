@@ -2,8 +2,8 @@
 
 I’m currently working in [SPEEDNET](https://speednet.pl/) as Java Developer. I specialize in backend, mostly using Spring Boot framework.
 
-- 🌱 I’m currently learning Spring Cloud
-- 🔭 and exploring DDD approach
+- 🌱 I’m currently learning DDD aproach
+- 🔭 and exploring Event storming possibilities
 
 ### You can find or contact me here:
 - 🔗 [Linkedin](https://www.linkedin.com/in/damian-marek-382691195/)
